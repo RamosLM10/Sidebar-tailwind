@@ -1,0 +1,1 @@
+Created and mimicked a Discord SideBar using Tailwind CSS. 
